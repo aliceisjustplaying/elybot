@@ -722,7 +722,6 @@ acx_ssc_posts = [
     "https://slatestarcodex.com/2015/10/27/contra-huemer-on-morals/",
     "https://slatestarcodex.com/2015/10/23/a-whiter-shade-of-candidate/",
     "https://slatestarcodex.com/2015/10/21/contra-simler-on-prestige/",
-    "https://slatestarcodex.com/2015/10/18/ot-30-comment-knowledge/",
     "https://slatestarcodex.com/2015/10/15/it-was-you-who-made-my-blue-eyes-blue/",
     "https://slatestarcodex.com/2015/10/12/against-against-autism-cures/",
     "https://slatestarcodex.com/2015/10/07/contra-caplan-on-mental-illness/",
