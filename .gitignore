@@ -1,3 +1,4 @@
-.env
-.vscode/
-app_*
+*
+!app.py
+!config.py
+!Pipfile*
