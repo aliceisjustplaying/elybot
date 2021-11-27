@@ -58,9 +58,7 @@ acx_ssc_posts = [
     "https://astralcodexten.substack.com/p/things-i-learned-writing-the-lockdown",
     "https://astralcodexten.substack.com/p/highlights-from-the-comments-on-crazy",
     "https://astralcodexten.substack.com/p/peer-review-request-ketamine",
-    "https://astralcodexten.substack.com/p/please-take-the-reader-survey",
     "https://astralcodexten.substack.com/p/book-review-crazy-like-us",
-    "https://astralcodexten.substack.com/p/reader-survey-final-check-in",
     "https://astralcodexten.substack.com/p/use-prediction-markets-to-fund-investigative",
     "https://astralcodexten.substack.com/p/book-review-contest-winners",
     "https://astralcodexten.substack.com/p/is-this-predictive-coding",
@@ -69,7 +67,6 @@ acx_ssc_posts = [
     "https://astralcodexten.substack.com/p/highlights-from-the-comments-on-how",
     "https://astralcodexten.substack.com/p/welcome-polygenically-screened-babies",
     "https://astralcodexten.substack.com/p/book-review-how-asia-works",
-    "https://astralcodexten.substack.com/p/acx-reader-research-survey-call-for",
     "https://astralcodexten.substack.com/p/perpendicular-lives",
     "https://astralcodexten.substack.com/p/mantic-monday-62121",
     "https://astralcodexten.substack.com/p/vote-in-the-book-review-contest",
@@ -182,7 +179,6 @@ acx_ssc_posts = [
     "https://slatestarcodex.com/2020/06/15/the-vision-of-vilazodone-and-vortioxetine/",
     "https://slatestarcodex.com/2020/06/11/wordy-wernickes/",
     "https://slatestarcodex.com/2020/06/10/the-obligatory-gpt-3-post/",
-    "https://slatestarcodex.com/2020/06/07/take-the-new-nootropics-survey/",
     "https://slatestarcodex.com/2020/06/04/problems-with-paywalls/",
     "https://slatestarcodex.com/2020/06/01/book-review-origin-of-consciousness-in-the-breakdown-of-the-bicameral-mind/",
     "https://slatestarcodex.com/2020/05/28/bush-did-north-dakota/",
@@ -220,14 +216,12 @@ acx_ssc_posts = [
     "https://slatestarcodex.com/2020/01/28/assortative-mating-and-autism/",
     "https://slatestarcodex.com/2020/01/22/book-review-review-little-soldiers/",
     "https://slatestarcodex.com/2020/01/20/ssc-survey-results-2020/",
-    "https://slatestarcodex.com/2020/01/17/last-chance-to-take-the-survey/",
     "https://slatestarcodex.com/2020/01/15/contra-contra-contra-caplan-on-psych/",
     "https://slatestarcodex.com/2020/01/13/2019-adversarial-collaboration-winners/",
     "https://slatestarcodex.com/2020/01/08/what-intellectual-progress-did-i-make-in-the-2010s/",
     "https://slatestarcodex.com/2020/01/06/a-very-unlikely-chess-game/",
     "https://slatestarcodex.com/2020/01/05/hardball-questions-for-the-next-debate-2020/",
     "https://slatestarcodex.com/2020/01/02/why-doctors-think-theyre-the-best/",
-    "https://slatestarcodex.com/2019/12/30/please-take-the-2020-ssc-survey/",
     "https://slatestarcodex.com/2019/12/26/please-vote-for-acc-winner/",
     "https://slatestarcodex.com/2019/12/25/acc-how-much-significance-should-we-ascribe-to-spiritual-experiences/",
     "https://slatestarcodex.com/2019/12/24/acc-should-you-have-a-merry-christmas/",
@@ -344,9 +338,7 @@ acx_ssc_posts = [
     "https://slatestarcodex.com/2019/01/13/ssc-survey-results-2019/",
     "https://slatestarcodex.com/2019/01/10/paradigms-all-the-way-down/",
     "https://slatestarcodex.com/2019/01/08/book-review-the-structure-of-scientific-revolutions/",
-    "https://slatestarcodex.com/2019/01/04/preregistration-of-investigations-for-the-2019-ssc-survey/",
     "https://slatestarcodex.com/2019/01/01/what-happened-to-90s-environmentalism/",
-    "https://slatestarcodex.com/2018/12/26/please-take-the-2019-ssc-survey/",
     "https://slatestarcodex.com/2018/12/19/refactoring-culture-as-branch-of-government/",
     "https://slatestarcodex.com/2018/12/18/fallacies-of-reversed-moderation/",
     "https://slatestarcodex.com/2018/12/13/trump-a-setback-for-trumpism/",
@@ -355,7 +347,6 @@ acx_ssc_posts = [
     "https://slatestarcodex.com/2018/12/03/book-review-evolutionary-psychopathology/",
     "https://slatestarcodex.com/2018/11/28/book-review-the-mind-illuminated/",
     "https://slatestarcodex.com/2018/11/26/is-science-slowing-down-2/",
-    "https://slatestarcodex.com/2018/11/21/impending-survey-discussion-thread/",
     "https://slatestarcodex.com/2018/11/16/the-economic-perspective-on-moral-standards/",
     "https://slatestarcodex.com/2018/11/13/preschool-much-more-than-you-wanted-to-know/",
     "https://slatestarcodex.com/2018/11/08/ketamine-an-update/",
@@ -465,8 +456,6 @@ acx_ssc_posts = [
     "https://slatestarcodex.com/2018/01/02/2017-predictions-calibration-results/",
     "https://slatestarcodex.com/2017/12/28/adderall-risks-much-more-than-you-wanted-to-know/",
     "https://slatestarcodex.com/2017/12/26/a-history-of-the-silmarils-in-the-fifth-age/",
-    "https://slatestarcodex.com/2017/12/25/preregistration-of-hypotheses-for-the-ssc-survey/",
-    "https://slatestarcodex.com/2017/12/21/please-take-the-2018-ssc-reader-survey/",
     "https://slatestarcodex.com/2017/12/12/classified-thread-4-vinson-classif/",
     "https://slatestarcodex.com/2017/12/08/what-to-make-of-new-positive-nsi-189-results/",
     "https://slatestarcodex.com/2017/12/07/tax-bill-3-dont-mess-with-taxes/",
@@ -572,7 +561,6 @@ acx_ssc_posts = [
     "https://slatestarcodex.com/2017/01/30/link-taubes-contra-guyenet-on-sugar/",
     "https://slatestarcodex.com/2017/01/29/dogs-and-wolves-in-defense-of-some-past-posts/",
     "https://slatestarcodex.com/2017/01/26/link-guyenet-on-taubes/",
-    "https://slatestarcodex.com/2017/01/22/ssc-survey-2017/",
     "https://slatestarcodex.com/2017/01/18/watch-new-health-picks/",
     "https://slatestarcodex.com/2017/01/17/another-followup-to-economists-on-education/",
     "https://slatestarcodex.com/2017/01/14/should-buzzfeed-publish-information-which-is-explosive-if-true-but-not-completely-verified/",
@@ -598,7 +586,6 @@ acx_ssc_posts = [
     "https://slatestarcodex.com/2016/10/30/how-does-recent-ai-progress-affect-the-bostromian-paradigm/",
     "https://slatestarcodex.com/2016/10/24/ai-persuasion-experiment-results/",
     "https://slatestarcodex.com/2016/10/21/the-heart-has-its-reasons-that-reason-knows-not-of/",
-    "https://slatestarcodex.com/2016/10/20/ai-persuasion-followup-survey/",
     "https://slatestarcodex.com/2016/10/17/the-moral-of-the-story/",
     "https://slatestarcodex.com/2016/10/13/more-hardball-debate-questions/",
     "https://slatestarcodex.com/2016/10/11/somewhat-against-psychiatric-conditions-as-domestication-failure/",
@@ -1111,7 +1098,8 @@ def check_mentions(api, keywords, since_id):
                     logger.info(f"dispensing punishment")
 
                     api.update_status(
-                        status="@elymitra_ " + random.sample(acx_ssc_posts, 1)[0],
+                        status="@elymitra_ " +
+                        random.sample(acx_ssc_posts, 1)[0],
                         in_reply_to_status_id=tweet.id,
                         auto_populate_reply_metadata=True,
                     )
@@ -1119,7 +1107,8 @@ def check_mentions(api, keywords, since_id):
                     logger.info(f"dispensing reward")
 
                     api.update_status(
-                        status="@elymitra_ 😊" + random.sample(acx_ssc_posts, 1)[0],
+                        status="@elymitra_ 😊" +
+                        random.sample(acx_ssc_posts, 1)[0],
                         in_reply_to_status_id=tweet.id,
                         auto_populate_reply_metadata=True,
                     )
